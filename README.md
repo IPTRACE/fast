@@ -5,7 +5,7 @@ FAST is an administrative utility to improve super-users maintenance the OS (Uni
 It's intended to easily shows the system status, user's activity or even small system changes for security reason.<br />
 FAST works in the shells environments but created and tested in the KornShell.
 
-1. Copy the file fast.ksh to your shell.
+1. Copy the file fast.ksh to your file system.
 2. Run the following command using exp. KornShell. (bear in mind executable file permissions):<br />
   % ksh fast.ksh<br />
 or<br />
