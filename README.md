@@ -2,8 +2,8 @@
 Fast Administration Script Template (FAST)
 
 FAST is an administrative utility to improve super-users maintenance the OS (Unix, Unix-like and Linux).<br />
-It's intended to easily shows the system status, user's activity or even small system changes for security reason.<br />
-FAST works in the shells environments but created and tested in the KornShell.
+It's intended to easily show the system status, user's activity or even small system changes for security reasons.<br />
+FAST works in shell environments but it was created and tested in the KornShell.
 
 1. Copy the file fast.ksh to your file system.
 2. Run the following command using exp. KornShell. (bear in mind executable file permissions):<br />
