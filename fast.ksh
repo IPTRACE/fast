@@ -9,7 +9,7 @@
 # REV: 0.0.A    (Valid are A, B, D, T and P)
 #               (For Alpha, Beta, Dev, Test and Production)
 #
-# PLATFORM:     Platform independent
+# PLATFORM:     Platform independent (Unix, Unix-like, Linux)
 #
 # PURPOSE:      FAST is an administrative utility to improve super-users maintenance the OS (Unix, Unix-like and Linux).
 #               It's intended to easily shows the system status, user's activity or even small system changes for security reason.
